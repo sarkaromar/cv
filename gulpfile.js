@@ -19,9 +19,9 @@ var sass = require('gulp-sass'),
           stream: true
         }))
     });
-    gulp.task('watch', ['browserSync'], function (){
+   /* gulp.task('watch', ['browserSync'], function (){
       gulp.watch('app/sass/*.scss', ['sass']); 
-    })
+    })*/
     gulp.task('watch:sass', function () {
       gulp.watch('app/sass/*.scss', ['sass']); 
     });
