@@ -33,11 +33,11 @@ Clone with HTTPS
 Use Git or checkout with SVN using the web URL.
 
 ```sh
-https://github.com/sarkaromar/usmanmill.git
+https://github.com/sarkaromar/cv.git
 ```
 
 ```sh
- cd usmanmill/
+ cd cv/
  $ npm install
 ```
 
